@@ -1,0 +1,48 @@
+{
+  "recommendations": [
+    // themes & icons
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "file-icons.file-icons",
+
+    // workflow essentials
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "vivaxy.vscode-conventional-commits",
+    "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare",
+    "Gruntfuggly.todo-tree",
+
+    // life savers!
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "usernamehw.errorlens",
+    "naumovs.color-highlight",
+    "YoavBls.pretty-ts-errors",
+    "antfu.file-nesting",
+    "antfu.goto-alias",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "fabiospampinato.vscode-open-in-github",
+    "antfu.open-in-github-button",
+
+    // markdown support
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-mermaid",
+    
+    // utilities & tools
+    "antfu.browse-lite",
+    "antfu.slidev",
+    
+    // Vue ecosystem
+    "antfu.unocss",
+    "antfu.vite",
+    "Vue.volar",
+    "Nuxtr.nuxtr-vscode",
+    "Nuxt.mdc",
+
+    // SAP
+    "SAPSE.sap-ux-fiori-tools-extension-pack",
+    "DotJoshJohnson.xml",
+  ]
+}
